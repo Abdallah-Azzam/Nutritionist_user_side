@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # new_template
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 "# new_user_template" 
 "# new_user_template" 
 "# new_user_template" 
+=======
+# new_template
+>>>>>>> a784c4ca5a14bd1208c92ff92b53de202f25958b
